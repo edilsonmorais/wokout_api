@@ -81,3 +81,6 @@ SQLAlchemy: https://docs.sqlalchemy.org/en/20/
 Alembic: https://alembic.sqlalchemy.org/en/latest/
 
 Fastapi-pagination: https://uriyyo-fastapi-pagination.netlify.app/
+
+# Fonte do código
+https://github.com/digitalinnovationone/workout_api
